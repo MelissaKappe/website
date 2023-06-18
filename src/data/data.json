@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Wijnhuis KAPPELYX",
+    "paragraph": "Proef de Passie, Ontdek de Smaak: Wijnen uit het Hart van Haute-Marne."
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -152,12 +152,12 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Keizersgracht 724, Amsterdam",
+    "phone": "+31 6 51 71 78 03",
+    "email": "info@KAPPELYX.com",
+    "facebook": "fb.com/KAPPELYX",
+    "twitter": "twitter.com/KAPPELYX",
+    "youtube": "youtube.com/KAPPELYX"
   },
   "Features": [
     {
